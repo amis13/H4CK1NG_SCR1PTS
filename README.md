@@ -27,7 +27,8 @@ find_os
 ### Grepea para simplificar busquedas.
 Por ejemplo para buscar maquinas Windows:
 ```bash
-findo_os | grep "Windows"
+find_os | grep "Windows"
 ```
+
 
 
